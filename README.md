@@ -8,6 +8,8 @@ BMI = (weight * 703) / (height * height)
 
 print(BMI)
 
+
+
 if BMI>0:
     if(BMI<18.5):
         print(name +", you are underwight.")
